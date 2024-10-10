@@ -35,8 +35,9 @@ se utiliza el Firebase para almacenar la informacion de Productos y tambien las 
 4.) Ejecuta el comando npm install --save react-toastify para cargar las dependendencias de Toastify (instancia para mostrar mensajes con estilo).
 5.) Ejecuta el comando npm install sweetalert2 para cargar las dependendencias de SweetAlert2 (instancia para mostrar mensajes con estilo).
 6.) Ejecuta el comando npm install dotenv --dev para poder utilizar variables de entorno en tu aplicacion.
-6.) Ejecuta el comando npm run dev para iniciar la aplicacion.
-7.) Abre tu navegador y navega a http://localhost:5173 para poder ver la aplicacion en accion.
+7.) Ejecuta el comando npm run dev para iniciar la aplicacion.
+8.) Abre tu navegador y navega a http://localhost:5173 para poder ver la aplicacion en accion.
+9.) Abre tu navegador y navega a http://localhost:5173 para poder ver la aplicacion en accion.
 
 ## Explicacion de la aplicacion.
 
