@@ -1,0 +1,18 @@
+.volver {  
+    height: 50px;   
+    text-transform: uppercase;
+    font-weight: bold;
+    color:rgb(5, 177, 48)    
+}
+
+.volver1 {  
+    height: 50px;   
+    text-transform: uppercase;
+    font-weight: bold;
+    color:rgb(22, 22, 132)    
+}
+.boton {      
+    --bs-btn-padding-y: .25rem;
+    --bs-btn-padding-x: .5rem;
+    --bs-btn-font-size: .50rem;
+}
